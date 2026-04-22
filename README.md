@@ -7,6 +7,7 @@ Comparative analysis of different activation functions (ReLU, Sigmoid, Tanh) and
 - SGD required careful tuning and showed unstable convergence.
 - RMSprop converged faster but tended to overfit on small datasets.
 - Adam provided the best balance between speed and generalization.
+- 
 ⚠️ Challenges Identified
 
 - Overfitting observed in small datasets with complex models
